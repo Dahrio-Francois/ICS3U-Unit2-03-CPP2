@@ -22,5 +22,6 @@ int main() {
 
     // output
     std::cout << "" << std::endl;
-    std::cout << "Circumference is " << circumference << " mm²" << std::endl;
+    std::cout << "Circumference is " << circumference << " mm" << std::endl;
+    std::cout << "\nDone" << std::endl;
 }
